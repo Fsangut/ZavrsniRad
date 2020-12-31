@@ -1,0 +1,2 @@
+Prvo je potrebno instalirati "setup" datoteku kako bi se omogućio rad same aplikacije,
+zatim je potrebno instalirati "MasCal setup" odnosno samu aplikaciju.

@@ -1,0 +1,107 @@
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.exe.config
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.exe
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.pdb
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csprojAssemblyReference.cache
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.Properties.Resources.resources
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.GenerateResource.cache
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.CoreCompileInputs.cache
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.exe
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.pdb
+C:\Users\Šangut\Desktop\Faks\ZavRad\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.Form1.resources
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.exe
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.Designer.cs
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.Designer.cs
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.xsc
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.xsd
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.xss
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.xsc
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.xsd
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.xss
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.exe.config
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\Google.Protobuf.dll
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\MySql.Data.dll
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\Renci.SshNet.dll
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\Google.Protobuf.xml
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\MySql.Data.xml
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\Renci.SshNet.xml
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csprojAssemblyReference.cache
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormEmail.resources
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.Form1.resources
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormDodajNovi.resources
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormIzmjeni.resources
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormPromijeniGramazu.resources
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.Properties.Resources.resources
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.GenerateResource.cache
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.CoreCompileInputs.cache
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.CopyComplete
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.exe
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.pdb
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.pdb
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormPovijest.resources
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirnice.mdf
+C:\Users\Šangut\Desktop\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirnice_log.ldf
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirnice.mdf
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirnice_log.ldf
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.Designer.cs
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.Designer.cs
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.xsc
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.xsd
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.xss
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.xsc
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.xsd
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.xss
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.exe.config
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.exe
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.pdb
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\BouncyCastle.Crypto.dll
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\Google.Protobuf.dll
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\MySql.Data.dll
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\Renci.SshNet.dll
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\Google.Protobuf.xml
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\MySql.Data.xml
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\bin\Debug\Renci.SshNet.xml
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csprojAssemblyReference.cache
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormEmail.resources
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.Form1.resources
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormDodajNovi.resources
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormIzmjeni.resources
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormPovijest.resources
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormPromijeniGramazu.resources
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.Properties.Resources.resources
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.GenerateResource.cache
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.CoreCompileInputs.cache
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.CopyComplete
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.exe
+D:\PC\Za CD završni\Proba\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.pdb
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\dblNamirnice.mdf
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\dblNamirnice_log.ldf
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.xsc
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.xsd
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet.xss
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.xsc
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.xsd
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\dblNamirniceDataSet1.xss
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.exe.config
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.exe
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\ZavRadFS.pdb
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\Google.Protobuf.dll
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\MySql.Data.dll
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\Renci.SshNet.dll
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\Google.Protobuf.xml
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\MySql.Data.xml
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\bin\Debug\Renci.SshNet.xml
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormEmail.resources
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.Form1.resources
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormDodajNovi.resources
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormIzmjeni.resources
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormPovijest.resources
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.FormPromijeniGramazu.resources
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.Properties.Resources.resources
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csproj.CopyComplete
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.exe
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.pdb
+C:\Users\filip\Desktop\Projekti\MasCal\ZavRadFS\ZavRadFS\obj\Debug\ZavRadFS.csprojAssemblyReference.cache

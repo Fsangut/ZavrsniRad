@@ -1,0 +1,14 @@
+
+ 
+  Ručak
+	25.5.2020. 17:22:41
+  Namirnica 1: Test - grami: 1
+  Sadrži:
+	 o  Kalorije: 2
+	 o  Bjelancevine: 1
+	 o  Masti: 1
+	 o  Omega3: 1
+	 o  Omega6: 1
+	 o  Ugljikohidrati: 1
+	 o  Vlakna: 1
+----------------------------------------------------------

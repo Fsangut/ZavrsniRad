@@ -1,0 +1,12 @@
+  Doruèak
+	15.6.2020. 15:13:19
+  Namirnica 1: test - grami: 1
+  Sadrži:
+	 o  Kalorije: 1
+	 o  Bjelancevine: 1
+	 o  Masti: 1
+	 o  Omega3: 1
+	 o  Omega6: 1
+	 o  Ugljikohidrati: 1
+	 o  Vlakna: 1
+----------------------------------------------------------

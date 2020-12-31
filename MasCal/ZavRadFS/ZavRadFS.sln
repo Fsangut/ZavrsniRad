@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZavRadFS", "ZavRadFS\ZavRadFS.csproj", "{62559527-589F-4E94-9E02-C65E9D28AD51}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MasCal setup", "MasCal setup\MasCal setup.vdproj", "{4101C936-92C9-4997-941C-A5CA2C7B71EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62559527-589F-4E94-9E02-C65E9D28AD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62559527-589F-4E94-9E02-C65E9D28AD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62559527-589F-4E94-9E02-C65E9D28AD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62559527-589F-4E94-9E02-C65E9D28AD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4101C936-92C9-4997-941C-A5CA2C7B71EB}.Debug|Any CPU.ActiveCfg = Debug
+		{4101C936-92C9-4997-941C-A5CA2C7B71EB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53A1963-2CC8-4463-99C5-CF040AFB2C70}
+	EndGlobalSection
+EndGlobal

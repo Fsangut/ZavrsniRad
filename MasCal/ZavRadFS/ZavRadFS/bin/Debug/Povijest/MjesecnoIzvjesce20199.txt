@@ -1,0 +1,282 @@
+20.8.2019. 13:39:58
+Kalorije: 12,55
+Bjelancevine: 5,117
+Masti: 5,18
+Omega3: 5,18
+Omega6: 5
+Ugljikohidrati: 6,42
+Vlakna: 5,218
+
+20.8.2019. 13:40:12
+Kalorije: 51,92
+Bjelancevine: 0,5964001
+Masti: 0,1799998
+Omega3: 0,1799998
+Omega6: 0
+Ugljikohidrati: 12,64
+Vlakna: 1,3706
+
+20.8.2019. 14:00:20
+Namirnica0: , Grami: 20, Kalorije: 0,28
+Namirnica1: , Grami: 42, Kalorije: 0,3948
+Kalorije: 49,34
+Bjelancevine: 0,6748
+Masti: 0,72
+Omega3: 0,72
+Omega6: 0
+Ugljikohidrati: 10,52
+Vlakna: 1,3692
+
+20.8.2019. 14:00:37
+Namirnica0: , Grami: 20, Kalorije: 0,28
+Namirnica1: , Grami: 42, Kalorije: 0,3948
+Namirnica2: , Grami: 8, Kalorije: 8
+Namirnica3: , Grami: 4, Kalorije: 0,0376
+Kalorije: 60,82
+Bjelancevine: 8,712399
+Masti: 8,72
+Omega3: 8,72
+Omega6: 8
+Ugljikohidrati: 19,4
+Vlakna: 9,459599
+
+20.8.2019. 14:02:33
+Namirnica 1: , Grami: 1, Kalorije: 0,014
+Namirnica 2: , Grami: 1, Kalorije: 0,0094
+Kalorije: 1,51
+Bjelancevine: 0,0234
+Masti: 0,036
+Omega3: 0,036
+Omega6: 0
+Ugljikohidrati: 0,284
+Vlakna: 0,0436
+
+20.8.2019. 14:04:28
+Namirnica 1:Ananas, Grami: 2, Kalorije: 0,0188
+Namirnica 2:Ajvar, Grami: 2, Kalorije: 0,028
+Kalorije: 3,02
+Bjelancevine: 0,0468
+Masti: 0,072
+Omega3: 0,072
+Omega6: 0
+Ugljikohidrati: 0,568
+Vlakna: 0,0872
+
+20.8.2019. 14:05:55
+Namirnica1: Ananas, Grami: 1, Kalorije: 0,0094
+Namirnica2: Ajvar, Grami: 10, Kalorije: 0,14
+Kalorije: 7,27
+Bjelancevine: 0,1494
+Masti: 0,36
+Omega3: 0,36
+Omega6: 0
+Ugljikohidrati: 0,86
+Vlakna: 0,2326
+
+20.8.2019. 14:09:55
+Namirnica1: Ajvar,
+Grami: 2, Kalorije: 0,028
+Namirnica2: Ananas,
+Grami: 2, Kalorije: 0,0188
+Kalorije: 3,02
+Bjelancevine: 0,0468
+Masti: 0,072
+Omega3: 0,072
+Omega6: 0
+Ugljikohidrati: 0,568
+Vlakna: 0,0872
+
+20.8.2019. 14:11:23
+Namirnica1: Ananas, Grami: 1, Kalorije: 0,0094
+Namirnica2: Ajvar,Grami: 1, Kalorije: 0,014
+Kalorije: 1,51
+Bjelancevine: 0,0234
+Masti: 0,036
+Omega3: 0,036
+Omega6: 0
+Ugljikohidrati: 0,284
+Vlakna: 0,0436
+
+20.8.2019. 14:15:48
+Namirnica1: Ajvar                                                                                               
+Grami: 2
+Kalorije: 0,028
+Namirnica2: Ananas                                                                                              
+Grami: 2
+Kalorije: 0,0188
+Kalorije: 3,02
+Bjelancevine: 0,0468
+Masti: 0,072
+Omega3: 0,072
+Omega6: 0
+Ugljikohidrati: 0,568
+Vlakna: 0,0872
+
+8.9.2019. 22:28:33
+Namirnica1: Ajvar                                                                                               
+Grami: 100
+Kalorije: 1,4
+Namirnica2: Ananas                                                                                              
+Grami: 1
+Kalorije: 0,0094
+Kalorije: 64,87
+Bjelancevine: 1,4094
+Masti: 3,6
+Omega3: 3,6
+Omega6: 0
+Ugljikohidrati: 6,62
+Vlakna: 2,1226
+
+8.9.2019. 22:31:18
+Namirnica1: Ajvar                                                                                               
+Grami: 1
+Kalorije: 0,014
+Namirnica2: Ananas                                                                                              
+Grami: 1
+Kalorije: 0,0094
+Kalorije: 1,51
+Bjelancevine: 0,0234
+Masti: 0,036
+Omega3: 0,036
+Omega6: 0
+Ugljikohidrati: 0,284
+Vlakna: 0,0436
+-----------------------
+8.9.2019. 22:36:09
+Namirnica1: Ajvar                                                                                               
+Grami: 1
+Kalorije: 0,014
+Namirnica2: Ananas                                                                                              
+Grami: 1
+Kalorije: 0,0094
+
+Kalorije: 1,51
+Bjelancevine: 0,0234
+Masti: 0,036
+Omega3: 0,036
+Omega6: 0
+Ugljikohidrati: 0,284
+Vlakna: 0,0436
+----------------------------------------------
+8.9.2019. 22:37:51
+Namirnica1: Ajvar                                                                                               
+Grami: 1
+Kalorije: 0,014
+Namirnica2: Ananas                                                                                              
+Grami: 1
+Kalorije: 0,0094
+
+Kalorije: 1,51
+Bjelancevine: 0,0234
+Masti: 0,036
+Omega3: 0,036
+Omega6: 0
+Ugljikohidrati: 0,284
+Vlakna: 0,0436
+----------------------------------------------
+8.9.2019. 22:39:32
+Namirnica1: Ajvar                                                                                               
+Grami: 2
+Kalorije: 0,028
+Namirnica2: Ananas                                                                                              
+Grami: 2
+Kalorije: 0,0188
+
+Kalorije: 3,02
+Bjelancevine: 0,0468
+Masti: 0,072
+Omega3: 0,072
+Omega6: 0
+Ugljikohidrati: 0,568
+Vlakna: 0,0872
+----------------------------------------------
+8.9.2019. 22:41:51
+Namirnica1: Ajvar                                                                                               
+Grami: 1
+Kalorije: 0,014
+Namirnica2: Ananas                                                                                              
+Grami: 1
+Kalorije: 0,0094
+
+Kalorije: 1,51
+Bjelancevine: 0,0234
+Masti: 0,036
+Omega3: 0,036
+Omega6: 0
+Ugljikohidrati: 0,284
+Vlakna: 0,0436
+----------------------------------------------
+8.9.2019. 22:52:36
+Namirnica1: Ajvar                                                                                               
+Grami: 5
+Kalorije: 0,07
+
+Kalorije: 3,2
+Bjelancevine: 0,07
+Masti: 0,18
+Omega3: 0,18
+Omega6: 0
+Ugljikohidrati: 0,32
+Vlakna: 0,105
+----------------------------------------------
+8.9.2019. 22:52:57
+Namirnica1: Ajvar                                                                                               
+Grami: 2
+Kalorije: 0,028
+Namirnica2: Ananas                                                                                              
+Grami: 2
+Kalorije: 0,0188
+
+Kalorije: 3,02
+Bjelancevine: 0,0468
+Masti: 0,072
+Omega3: 0,072
+Omega6: 0
+Ugljikohidrati: 0,568
+Vlakna: 0,0872
+----------------------------------------------
+8.9.2019. 22:53:59
+Namirnica1: Ajvar                                                                                               
+Grami: 1
+Kalorije: 0,014
+
+Kalorije: 0,64
+Bjelancevine: 0,014
+Masti: 0,036
+Omega3: 0,036
+Omega6: 0
+Ugljikohidrati: 0,064
+Vlakna: 0,021
+----------------------------------------------
+8.9.2019. 22:57:30
+Namirnica1: Ajvar
+Grami: 1
+Kalorije: 0,014
+
+Kalorije: 0,64
+Bjelancevine: 0,014
+Masti: 0,036
+Omega3: 0,036
+Omega6: 0
+Ugljikohidrati: 0,064
+Vlakna: 0,021
+----------------------------------------------
+8.9.2019. 23:00:38
+Namirnica1: Ajvar
+Grami: 1
+Kalorije: 0,014
+Namirnica2: Ananas
+Grami: 1
+Kalorije: 0,0094
+Namirnica3: Ananas
+Grami: 1
+Kalorije: 0,0094
+
+Kalorije: 2,38
+Bjelancevine: 0,0328
+Masti: 0,036
+Omega3: 0,036
+Omega6: 0
+Ugljikohidrati: 0,504
+Vlakna: 0,0662
+----------------------------------------------
