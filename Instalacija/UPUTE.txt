@@ -1,2 +1,4 @@
 Prvo je potrebno instalirati "setup" datoteku kako bi se omogućio rad same aplikacije,
 zatim je potrebno instalirati "MasCal setup" odnosno samu aplikaciju.
+Nakon što se izvršila aplikacija, potrebno je otići u mapu gdje je instalirana aplikacija i postaviti sve security postavke na "Allow" za dblNamirnice.mdf i dblNamirnice_log.idf 
+Ukoliko nije jasno, slike za ovaj postupak se nalaze u mapi "NAKON INSTALACIJE",
