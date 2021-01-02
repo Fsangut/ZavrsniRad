@@ -1,4 +1,7 @@
 Prvo je potrebno instalirati "setup" datoteku kako bi se omogućio rad same aplikacije,
 zatim je potrebno instalirati "MasCal setup" odnosno samu aplikaciju.
-Nakon što se izvršila aplikacija, potrebno je otići u mapu gdje je instalirana aplikacija i postaviti sve security postavke na "Allow" za dblNamirnice.mdf i dblNamirnice_log.idf 
-Ukoliko nije jasno, slike za ovaj postupak se nalaze u mapi "NAKON INSTALACIJE",
+Nakon što se izvršila aplikacija, potrebno je otići u mapu gdje je instalirana aplikacija i postaviti sve security postavke na "Allow" za dblNamirnice.mdf i dblNamirnice_log.idf
+C: -> Program files(x86) -> Fsangut -> MasCal setup -> dblNamirnice.mdf -> desni  klik i odabrati Properties -> odabrati karticu Security -> Edit -> svugdje staviti Allow, zatim otići na drugi element u listi i tu također svugdje postaviti Allow i tako za svaki element u listi(ALL APLICATION PACKAGES, ALL RESTRICTED APP PACKAGES, SYSTEM, Administrators, Users)
+Ponoviti sve za dblNamirnice_log.idf ===>    dblNamirnice.mdf -> desni  klik i odabrati Properties -> odabrati karticu Security -> Edit -> svugdje staviti Allow, zatim otići na drugi element u listi i tu također svugdje postaviti Allow i tako za svaki element u listi(ALL APLICATION PACKAGES, ALL RESTRICTED APP PACKAGES, SYSTEM, Administrators, Users).
+
+Ukoliko nije jasno, slike za ovaj postupak se nalaze u mapi "NAKON INSTALACIJE 2 setupa"
